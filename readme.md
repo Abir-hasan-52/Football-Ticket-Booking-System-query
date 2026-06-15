@@ -72,6 +72,6 @@ Fields:
 
 ## Author
 
-Abir Hasan
-Software Engineering
+Abir Hasan .
+Software Engineering .
 Daffodil International University
